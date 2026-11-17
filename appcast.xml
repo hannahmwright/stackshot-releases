@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Stackshot</title>
+        <item>
+            <title>0.14.0</title>
+            <pubDate>Tue, 17 Nov 2026 16:50:31 -0500</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>0.14.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[First public build of Stackshot.
+
+- Stackshot now updates itself: it checks for new versions once a day, and **Check for Updates…** is in the menu bar menu.
+- Runs on Apple Silicon and Intel Macs with macOS 15 or later.
+
+**Install:** open `Stackshot-0.14.0.dmg`, drag Stackshot to Applications, and open it. macOS will ask for Screen Recording permission the first time you capture.
+]]></description>
+            <enclosure url="https://github.com/hannahmwright/stackshot-releases/releases/download/v0.14.0/Stackshot-0.14.0.zip" length="3048221" type="application/octet-stream" sparkle:edSignature="aaj6aXhRwMzZucHG8hs+P8K3SShHosQ7nsdRg9DYE0wNdxxVr20xH0xm67gMdpwoz4EOf5PFkKTdyzBeMMmOCA=="/>
+        </item>
+    </channel>
+</rss>
